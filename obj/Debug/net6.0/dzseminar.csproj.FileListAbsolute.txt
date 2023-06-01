@@ -1,0 +1,15 @@
+I:\!!geekbrains\c#\seminar7\dzseminar\bin\Debug\net6.0\dzseminar.exe
+I:\!!geekbrains\c#\seminar7\dzseminar\bin\Debug\net6.0\dzseminar.deps.json
+I:\!!geekbrains\c#\seminar7\dzseminar\bin\Debug\net6.0\dzseminar.runtimeconfig.json
+I:\!!geekbrains\c#\seminar7\dzseminar\bin\Debug\net6.0\dzseminar.dll
+I:\!!geekbrains\c#\seminar7\dzseminar\bin\Debug\net6.0\dzseminar.pdb
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.csproj.AssemblyReference.cache
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.GeneratedMSBuildEditorConfig.editorconfig
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.AssemblyInfoInputs.cache
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.AssemblyInfo.cs
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.csproj.CoreCompileInputs.cache
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.dll
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\refint\dzseminar.dll
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.pdb
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\dzseminar.genruntimeconfig.cache
+I:\!!geekbrains\c#\seminar7\dzseminar\obj\Debug\net6.0\ref\dzseminar.dll
